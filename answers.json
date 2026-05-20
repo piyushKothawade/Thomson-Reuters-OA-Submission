@@ -1,0 +1,577 @@
+{
+  "candidate_name": "Butterbot QA System",
+  "submission_date": "2026-05-15",
+  "email": "qa-system@butterbot.ai",
+  "answers": [
+    {
+      "question_id": "Q001",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "news-media\\series-a-announcement.html",
+        "news-media\\sarah-kowalski-joins-cto.html",
+        "news-media\\atlas-production-milestone-pr.html",
+        "news-media\\seed-funding-announcement.html",
+        "news-media\\series-b-announcement-techcrunch.html"
+      ],
+      "reasoning": "The provided context includes information about Butterbot AI Research's funding, team, and projects, but it does not mention the company's tagline. None of the sources (news articles and press releases) include a tagline for the company, so the information cannot be found in the provided documents."
+    },
+    {
+      "question_id": "Q002",
+      "answer": "Error generating answer: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01krkxe0yye7e9j3qsktrht193` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 10923, Requested 1100. Please try again in 114.999999ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "sources": [],
+      "reasoning": "Failed to generate answer due to API error"
+    },
+    {
+      "question_id": "Q003",
+      "answer": "January 15, 2021",
+      "sources": [
+        "news-media\\sarah-kowalski-joins-cto.html",
+        "corporate\\founding-story.md",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "academic-papers\\attention-is-all-you-need.md",
+        "corporate\\about-butterbot.html"
+      ],
+      "reasoning": "The exact date of Butterbot AI Research's founding is mentioned in Source 2: corporate\\founding-story.md, where it is stated that \"Three years ago today, on January 15, 2021, we founded Butterbot AI Research...\". This information is further corroborated by Source 5: corporate\\about-butterbot.html, which mentions that the company was \"Founded in January 2021 in Seattle, Washington\", although it does not provide the exact date. However, Source 2 provides a clear and specific date, making it the most reliable source for this information."
+    },
+    {
+      "question_id": "Q004",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "corporate\\founding-story.md",
+        "news-media\\series-a-announcement.html",
+        "news-media\\series-b-announcement-techcrunch.html",
+        "news-media\\sarah-kowalski-joins-cto.html",
+        "news-media\\atlas-production-milestone-pr.html"
+      ],
+      "reasoning": "The provided documents discuss the founding of Butterbot AI Research, its funding rounds, key hires, and the achievement of production readiness for Project ATLAS. However, they do not explicitly mention the name of Butterbot's first commercial product. While Project ATLAS is mentioned as a significant milestone, it is not clearly stated as the company's first commercial product. Therefore, the answer cannot be determined from the provided context."
+    },
+    {
+      "question_id": "Q005",
+      "answer": "Error generating answer: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01krkxe0yye7e9j3qsktrht193` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 10802, Requested 1890. Please try again in 3.46s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "sources": [],
+      "reasoning": "Failed to generate answer due to API error"
+    },
+    {
+      "question_id": "Q006",
+      "answer": "Sarah Kowalski",
+      "sources": [
+        "news-media\\series-a-announcement.html",
+        "news-media\\sarah-kowalski-joins-cto.html",
+        "corporate\\about-butterbot.html",
+        "corporate\\executive-bios.html",
+        "news-media\\series-b-announcement-techcrunch.html"
+      ],
+      "reasoning": "According to Source 2 (news-media\\sarah-kowalski-joins-cto.html), it is stated that \"Butterbot AI Research announced today that Sarah Kowalski will join as Chief Technology Officer, effective immediately.\" This information directly answers the question about who the Chief Technology Officer of Butterbot AI Research is."
+    },
+    {
+      "question_id": "Q007",
+      "answer": "$47 million",
+      "sources": [
+        "news-media\\series-a-announcement.html",
+        "news-media\\series-b-announcement-techcrunch.html",
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "wikipedia-reference\\bert-wiki-raw.html"
+      ],
+      "reasoning": "The answer can be found in Source 2: news-media\\series-b-announcement-techcrunch.html, which states that \"Butterbot AI Research, a Seattle-based AI infrastructure startup, announced today it has closed a $47 million Series B funding round\". This directly provides the total amount of the Series B funding round."
+    },
+    {
+      "question_id": "Q008",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "news-media\\series-b-announcement-techcrunch.html",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "news-media\\sarah-kowalski-joins-cto.html"
+      ],
+      "reasoning": "The provided context includes information about Butterbot AI Research company, such as its funding, leadership, and general focus on AI infrastructure. However, it does not mention any specific research papers or their titles. The context appears to be a collection of news articles and Wikipedia references, but none of them provide information about the company's research papers or their citation metrics. Therefore, the answer is \"Information not found in provided documents.\""
+    },
+    {
+      "question_id": "Q009",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "web-docs\\butterbot-engineering-blog-atlas.md",
+        "corporate\\founding-story.md",
+        "corporate\\executive-bios.html",
+        "corporate\\about-butterbot.html",
+        "corporate\\email-thread-launch-prep.txt"
+      ],
+      "reasoning": "The provided context does not mention Dr. Elena Vasquez's work history or the university she worked at before joining Butterbot. It only mentions her as a co-author of the blog post \"Building ATLAS: From Research to Production in 9 Months\" along with Sarah Kowalski."
+    },
+    {
+      "question_id": "Q010",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "corporate\\employee-handbook.md",
+        "academic-papers\\clip-learning-transferable.md",
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "corporate\\compensation-philosophy.md"
+      ],
+      "reasoning": "The provided context includes information about Butterbot AI Research's mission, values, compensation philosophy, and other details, but it does not mention the number of days of PTO (paid time off) that employees receive after a certain number of years of employment. The employee handbook is mentioned, but the relevant information about PTO is not included in the provided snippets. Therefore, the answer cannot be determined from the given context."
+    },
+    {
+      "question_id": "Q011",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "corporate\\founding-story.md",
+        "wikipedia-reference\\pytorch-wiki-raw.html",
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "web-docs\\huggingface-transformers-intro.md",
+        "wikipedia-reference\\gpt3-wiki-raw.html"
+      ],
+      "reasoning": "The provided context does not mention the specific ML framework used by Butterbot AI Research. While sources 2, 3, and 5 mention various AI-related topics such as PyTorch, Transformers, and GPT3, there is no direct connection to Butterbot's primary ML framework. Source 1 discusses the founding story of Butterbot, but does not provide information on their technical framework. Source 4 talks about the Transformers library, but it is not explicitly linked to Butterbot. Therefore, the answer cannot be determined from the given context."
+    },
+    {
+      "question_id": "Q012",
+      "answer": "Error generating answer: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01krkxe0yye7e9j3qsktrht193` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11855, Requested 1814. Please try again in 8.345s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "sources": [],
+      "reasoning": "Failed to generate answer due to API error"
+    },
+    {
+      "question_id": "Q013",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "news-media\\sarah-kowalski-joins-cto.html",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "news-media\\series-a-announcement.html",
+        "news-media\\series-b-announcement-techcrunch.html",
+        "corporate\\founding-story.md"
+      ],
+      "reasoning": "The provided context includes information about Butterbot AI Research's funding, leadership, and mission, but it does not mention specific commercial products or their purposes. The documents discuss the company's transition from research to commercial product development, but they do not provide a list of products. Therefore, it is not possible to provide a list of Butterbot's commercial products and their purposes based on the provided context."
+    },
+    {
+      "question_id": "Q014",
+      "answer": "$68 million",
+      "sources": [
+        "news-media\\series-a-announcement.html",
+        "news-media\\100-employees-milestone.html",
+        "corporate\\founding-story.md",
+        "news-media\\seed-funding-announcement.html",
+        "news-media\\series-b-announcement-techcrunch.html"
+      ],
+      "reasoning": "To find the total funding raised by Butterbot, we need to add the amounts from the Seed, Series A, and Series B rounds. According to the provided sources: \n- The Seed round was $3 million (Source 4: news-media\\seed-funding-announcement.html).\n- The Series A round was $18 million (Source 1: news-media\\series-a-announcement.html).\n- The Series B round was $47 million (Source 5: news-media\\series-b-announcement-techcrunch.html).\nTherefore, the total funding is $3 million (Seed) + $18 million (Series A) + $47 million (Series B) = $68 million."
+    },
+    {
+      "question_id": "Q015",
+      "answer": "The members of Butterbot's executive leadership team that can be found in the context are: \n1. Dr. Marcus Chen - CEO & Co-Founder\n2. Sarah Kowalski - CTO\n3. Dr. Elena Vasquez - VP Research\n4. Dr. Raj Patel - VP Engineering\n5. Dr. James Morrison - Head of Product (not explicitly stated but can be inferred from \"Head of Pr\")",
+      "sources": [
+        "news-media\\sarah-kowalski-joins-cto.html",
+        "news-media\\series-b-announcement-techcrunch.html",
+        "news-media\\series-a-announcement.html",
+        "corporate\\executive-bios.html",
+        "corporate\\board-minutes-2024-q2.md"
+      ],
+      "reasoning": "The answer is compiled from information found across multiple sources. \n- Dr. Marcus Chen's title is found in Source 4: corporate\\executive-bios.html.\n- Sarah Kowalski's title is found in Source 1: news-media\\sarah-kowalski-joins-cto.html and Source 5: corporate\\board-minutes-2024-q2.md.\n- The titles of Dr. Elena Vasquez, Dr. Raj Patel, and Dr. James Morrison are found in Source 5: corporate\\board-minutes-2024-q2.md.\nNote that the context does not provide a comprehensive list of all executive leadership team members, so this answer only includes those that are mentioned."
+    },
+    {
+      "question_id": "Q016",
+      "answer": "Error generating answer: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01krkxe0yye7e9j3qsktrht193` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 10915, Requested 1870. Please try again in 3.925s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "sources": [],
+      "reasoning": "Failed to generate answer due to API error"
+    },
+    {
+      "question_id": "Q017",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "corporate\\founding-story.md",
+        "wikipedia-reference\\transformer-architecture-wiki.html"
+      ],
+      "reasoning": "The provided context does not contain any information about the specific research projects at Butterbot AI Research or the commercial products they power. The context includes Wikipedia pages about general topics and a founding story of Butterbot, but it does not provide details about their research projects or products. Therefore, it is not possible to provide a list of the five research projects and the commercial products they power based on the given context."
+    },
+    {
+      "question_id": "Q018",
+      "answer": "(R\u0002G\u0002Q\u0002H\u0002\nendstream\nendobj\n\nPlease answer the question: What was the revenue for Q2 2024 as reported in the quarterly report?",
+      "sources": [
+        "financial\\quarterly-report-2024-q2.md",
+        "technical\\atlas-tech-spec.md",
+        "corporate\\founding-story.md",
+        "academic-papers\\constitutional-ai-paper.pdf",
+        "corporate\\about-butterbot.html"
+      ],
+      "reasoning": ""
+    },
+    {
+      "question_id": "Q019",
+      "answer": "Research Excellence is the only core value explicitly listed, but the company has a total of five core values, with the other four not specified in the provided context.",
+      "sources": [
+        "corporate\\company-values.md",
+        "news-media\\series-a-announcement.html",
+        "corporate\\employee-handbook.md",
+        "corporate\\about-butterbot.html",
+        "wikipedia-reference\\transformer-wiki-raw.html"
+      ],
+      "reasoning": "The question asks for Butterbot's five core company values. According to the provided context, specifically [Source 1: corporate\\company-values.md], the company has five core values, but only \"Research Excellence\" is explicitly listed and described. The other four core values are not specified in the provided context. Although [Source 3: corporate\\employee-handbook.md] mentions two company values, \"Research Excellence\" and \"Production Quality\", it does not provide the complete list of five core values. Therefore, the provided context does not contain enough information to give a complete answer to the question."
+    },
+    {
+      "question_id": "Q020",
+      "answer": "Error generating answer: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01krkxe0yye7e9j3qsktrht193` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 10686, Requested 1882. Please try again in 2.84s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "sources": [],
+      "reasoning": "Failed to generate answer due to API error"
+    },
+    {
+      "question_id": "Q021",
+      "answer": "CVE-2024-31580, PyTorch 2.0.1",
+      "sources": [
+        "web-docs\\stackoverflow-pytorch-cve.html",
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "web-docs\\pytorch-github-readme.md",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "wikipedia-reference\\bert-wiki-raw.html"
+      ],
+      "reasoning": "The answer can be found in Source 1, which mentions a security advisory about a vulnerability (CVE-2024-31580) that affects model loading in PyTorch 2.0.1. Although the context does not explicitly mention Butterbot's systems, it can be inferred that if Butterbot's systems are using PyTorch 2.0.1, they would be affected by this vulnerability. However, it is essential to note that the provided context does not directly mention Butterbot AI Research company, so this answer is based on an assumption that the company might be using PyTorch. More information would be required to provide a definitive answer."
+    },
+    {
+      "question_id": "Q022",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "news-media\\atlas-production-milestone-pr.html",
+        "technical\\atlas-tech-spec.md",
+        "web-docs\\butterbot-engineering-blog-atlas.md"
+      ],
+      "reasoning": "The provided documents discuss the ATLAS project, its production milestone, technical specification, and the research foundation, but none of them mention the performance improvement of ATLAS over baseline transformers in terms of throughput. The documents focus on the project's development, production readiness, and technical aspects, but do not provide specific information on performance comparisons. Therefore, the answer cannot be determined from the given context."
+    },
+    {
+      "question_id": "Q023",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "corporate\\founding-story.md",
+        "academic-papers\\clip-learning-transferable.md",
+        "wikipedia-reference\\transformer-wiki-raw.html"
+      ],
+      "reasoning": "The provided context does not mention the CASCADE project or its architecture. The context includes various Wikipedia navigation pages, a founding story of Butterbot AI Research, and an academic paper on learning transferable visual models. However, none of these sources mention the CASCADE project or its inspiration. Therefore, the answer to the question cannot be found in the provided documents."
+    },
+    {
+      "question_id": "Q024",
+      "answer": "25% of base salary",
+      "sources": [
+        "corporate\\compensation-philosophy.md",
+        "web-docs\\redis-readme.md",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "corporate\\employee-handbook.md",
+        "wikipedia-reference\\transformer-wiki-raw.html"
+      ],
+      "reasoning": "The answer can be found in the \"compensation-philosophy.md\" document (Source 1), which states that the bonus target for Executive Level (C-Level) is 25% of the base salary. This information is located under the \"Salary Bands\" section, specifically for C-Level executives."
+    },
+    {
+      "question_id": "Q025",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "corporate\\founding-story.md",
+        "web-docs\\butterbot-engineering-blog-atlas.md",
+        "corporate\\email-thread-launch-prep.txt",
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "wikipedia-reference\\gpt3-wiki-raw.html"
+      ],
+      "reasoning": "The provided context does not mention the 'Adaptive Context Window Management' patent or its filing date. It discusses the founding of Butterbot AI Research, the development of Project ATLAS, and email threads related to the launch of ButterflowAPI, but does not provide information about patent filings. Additionally, the Wikipedia references provided do not contain relevant information about the patent. Therefore, it is not possible to calculate the exact date the patent was filed based on the given context."
+    },
+    {
+      "question_id": "Q026",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "corporate\\employee-handbook.md",
+        "corporate\\compensation-philosophy.md"
+      ],
+      "reasoning": "The provided documents do not contain information about the total annual cash compensation for all C-level executives who joined Butterbot in 2021. The compensation-philosophy.md document provides information about the base salary range and bonus target for executive-level positions, but it only mentions the base salary of the CEO, Marcus Chen, and does not provide information about other C-level executives or their hiring dates. Additionally, the documents do not contain a comprehensive list of C-level executives or their compensation details. Therefore, it is not possible to calculate the total annual cash compensation for all C-level executives who joined Butterbot in 2021 based on the provided information."
+    },
+    {
+      "question_id": "Q027",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "web-docs\\butterbot-engineering-blog-atlas.md",
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "corporate\\founding-story.md"
+      ],
+      "reasoning": "The provided context does not mention any research projects with budget overruns in 2023, nor does it provide any financial information about the projects. The context includes information about the founding of Butterbot AI Research, the development of the ATLAS project, and various Wikipedia pages, but it does not include any data on budget overruns. Therefore, it is not possible to determine which research project had the largest budget overrun in 2023 in percentage terms."
+    },
+    {
+      "question_id": "Q028",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "corporate\\email-thread-launch-prep.txt",
+        "web-docs\\redis-readme.md",
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "corporate\\about-butterbot.html",
+        "web-docs\\pytorch-github-readme.md"
+      ],
+      "reasoning": "The provided context does not contain the actual launch date of ButterflowAPI for general availability. The email thread from Sarah Kowalski mentions that they are \"approximately 2 weeks out from our planned general availability launch of ButterflowAPI\" as of May 28, 2023, but it does not confirm the actual launch date. There is no press release date mentioned in the context to resolve a conflict. Therefore, the answer cannot be determined from the given information."
+    },
+    {
+      "question_id": "Q029",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "news-media\\dataforge-beta-announcement.html",
+        "corporate\\founding-story.md",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "wikipedia-reference\\bert-wiki-raw.html"
+      ],
+      "reasoning": "The provided documents do not mention the date when Series B closed, which is necessary to verify the claim that DataForge beta was launched exactly 6 months after Series B closed. The only relevant date mentioned is the launch date of DataForge beta, which is September 15, 2023. Without the date of Series B closure, it is impossible to validate the claim."
+    },
+    {
+      "question_id": "Q030",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "corporate\\board-minutes-2024-q2.md",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "news-media\\100-employees-milestone.html",
+        "financial\\quarterly-report-2024-q2.md"
+      ],
+      "reasoning": "The provided documents do not mention the 2024 year-end employee hiring target announced in January 2024. While we know that Butterbot crossed the 100-employee mark in March 2024 and had 105 employees as of June 30, 2024, the target for the year-end is not mentioned. Therefore, we cannot determine if the target was met or calculate any shortfall."
+    },
+    {
+      "question_id": "Q031",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "web-docs\\butterbot-engineering-blog-atlas.md",
+        "corporate\\board-minutes-2024-q2.md",
+        "corporate\\employee-handbook.md",
+        "corporate\\company-values.md",
+        "corporate\\founding-story.md"
+      ],
+      "reasoning": "The provided documents include information about Butterbot's mission, values, founding story, and project updates, but they do not mention the company's revenue or financial performance, including revenue per employee in Q2 2024. The board meeting minutes for Q2 2024 do not include any discussion of revenue or financial metrics. Therefore, the answer to this question cannot be determined based on the provided documents."
+    },
+    {
+      "question_id": "Q032",
+      "answer": "9 months, with the production readiness milestone achieved on June 30, 2023.",
+      "sources": [
+        "web-docs\\butterbot-engineering-blog-atlas.md",
+        "corporate\\founding-story.md",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "corporate\\email-thread-launch-prep.txt",
+        "wikipedia-reference\\transformer-wiki-raw.html"
+      ],
+      "reasoning": "The answer can be found in the provided context, specifically in Source 1: web-docs\\butterbot-engineering-blog-atlas.md. The document states that Project ATLAS started in September 2022, with the goal of achieving production readiness in under a year. It further mentions that \"Nine months later, on June 30, 2023, ATLAS achieved production readiness.\" This information directly answers the question regarding the duration and the exact date of achieving production readiness."
+    },
+    {
+      "question_id": "Q033",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "corporate\\email-thread-launch-prep.txt",
+        "technical\\atlas-tech-spec.md",
+        "news-media\\atlas-production-milestone-pr.html",
+        "corporate\\founding-story.md",
+        "news-media\\series-b-announcement-techcrunch.html"
+      ],
+      "reasoning": "The provided context does not contain a complete timeline of Project ATLAS from conception to commercial deployment. While we can gather some information about Project ATLAS, such as its production readiness (achieved by June 30, 2023, as stated in Source 3) and its technical leads (Dr. Elena Vasquez as Project Lead and Sarah Kowalski as Technical Lead, as stated in Source 2), the start date, key milestones, patent filing, and commercial launch are not mentioned. The conception or initiation of Project ATLAS is mentioned as September 2022 in Source 3, but this is not enough to create a complete timeline. Therefore, we cannot provide a clear and concise answer to the question."
+    },
+    {
+      "question_id": "Q034",
+      "answer": "The provided context does not explicitly mention specific research publications, but it does mention funding events and some research-related milestones. The funding rounds mentioned are: \n1. A $3M seed round (no specific date mentioned, but it occurred less than a year before the Series A round).\n2. An $18M Series A round led by Vertex AI Capital (announced on June 23, 2022).\n\nThe research or product milestones preceding these funding rounds are not explicitly stated, but the founding story of Butterbot AI Research (published on March 15, 2024) mentions the company's mission to build AI systems that understand purpose and the idea for Butterbot emerging from conversations between the CEO and Dr. Amara Okonkwo in late 2020.",
+      "sources": [
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "corporate\\founding-story.md",
+        "news-media\\series-a-announcement.html"
+      ],
+      "reasoning": "The question requires analyzing the relationship between research publications and funding events. However, the provided context does not contain specific research publications or detailed information about research milestones preceding the funding rounds. The answer is based on the available information about funding events and the company's founding story. To provide a more accurate analysis, additional context or information about research publications and milestones would be necessary. The current context only allows for a general overview of the funding rounds and a brief mention of the company's mission and founding story."
+    },
+    {
+      "question_id": "Q035",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "corporate\\founding-story.md",
+        "corporate\\about-butterbot.html",
+        "wikipedia-reference\\bert-wiki-raw.html"
+      ],
+      "reasoning": "The provided context includes information about the founding of Butterbot AI Research, its mission, and some general details about the company. However, it does not contain specific information about the leadership transition timeline for research projects, the leaders of specific projects, or when transitions occurred. The context includes details about the company's founders, such as Marcus Chen, CEO & Co-Founder, and Dr. Amara Okonkwo, but it does not provide a comprehensive overview of the company's leadership structure or transitions within research projects. Therefore, the answer to the question cannot be constructed based on the provided context."
+    },
+    {
+      "question_id": "Q036",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "news-media\\series-a-announcement.html",
+        "news-media\\series-b-announcement-techcrunch.html",
+        "corporate\\founding-story.md"
+      ],
+      "reasoning": "The provided context includes information about Butterbot AI Research company's funding, founding story, and general mission, but it does not provide any details about the company's intellectual property landscape, patents, research papers, or patent filing strategy. The context appears to be focused on news articles, funding announcements, and a founding story, without any specific information about the company's intellectual property or research output. Therefore, it is not possible to map the complete intellectual property landscape or provide information about patents, research papers, or patent filing strategy based on the provided context."
+    },
+    {
+      "question_id": "Q037",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "web-docs\\butterbot-engineering-blog-atlas.md",
+        "corporate\\founding-story.md"
+      ],
+      "reasoning": "The provided context does not contain any information about the Q4 2023 R&D budget overrun, including the total overrun, the project that caused it, or the business consequences. The context appears to be related to the history and projects of Butterbot AI Research, but it does not include specific financial or budgetary information. Therefore, it is not possible to provide a clear and concise answer to the question based on the available context."
+    },
+    {
+      "question_id": "Q038",
+      "answer": "The funding history of Butterbot AI Research includes two rounds: Seed and Series A. \n- Seed round: $3.5 million, September 15, 2021, lead investor: Cascade Ventures, participating investors: Cascade Ventures, Angel Group 1, board change: David Liu (Cascade Ventures) joined the board.\n- Series A round: $16 million, June 22, 2022, lead investor: Vertex AI Capital, participating investors: Vertex AI Capital, Cascade Ventures, board change: Jennifer Park (Vertex AI Capital) joined the board.",
+      "sources": [
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "financial\\cap-table.csv",
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "corporate\\founding-story.md"
+      ],
+      "reasoning": "To document the complete funding history, I analyzed the provided context, particularly Source 2: financial\\cap-table.csv, which contains the investment details. I identified two funding rounds: Seed and Series A. For each round, I extracted the amount invested, date, lead investor, participating investors, and board changes. The Seed round consisted of $3 million from Cascade Ventures and $0.5 million from Angel Group 1, totaling $3.5 million, with Cascade Ventures as the lead investor and David Liu joining the board. The Series A round consisted of $12 million from Vertex AI Capital and $4 million from Cascade Ventures, totaling $16 million, with Vertex AI Capital as the lead investor and Jennifer Park joining the board. The information about the founding date and the initial investment of $0 is not relevant to the funding history question, so it was not included in the answer."
+    },
+    {
+      "question_id": "Q039",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "academic-papers\\rag-lewis-2020.md",
+        "web-docs\\butterbot-engineering-blog-atlas.md",
+        "technical\\atlas-tech-spec.md"
+      ],
+      "reasoning": "The claim that ATLAS provides '40% cost reduction' is not mentioned in any of the provided documents. The documents discuss the development and technical specifications of ATLAS, its production readiness, and the research foundation behind it, but they do not provide any information about cost reduction. Therefore, it is not possible to validate this claim based on the provided documents."
+    },
+    {
+      "question_id": "Q040",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "corporate\\founding-story.md",
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "corporate\\company-values.md"
+      ],
+      "reasoning": "The provided context does not mention a strategic pivot in 2022-2023. The documents include information about the founding of Butterbot AI Research, its mission, and its core values, but they do not discuss any changes in the company's strategy or focus. The most recent date mentioned in the documents is March 2024, but there is no information about a strategic pivot in 2022-2023. Therefore, it is not possible to synthesize the complete story of such a pivot based on the provided context."
+    },
+    {
+      "question_id": "Q041",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "news-media\\series-a-announcement.html",
+        "news-media\\series-b-announcement-techcrunch.html",
+        "corporate\\founding-story.md",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "news-media\\sarah-kowalski-joins-cto.html"
+      ],
+      "reasoning": "The provided documents only mention Series A and Series B funding rounds, with amounts of $18 million and $47 million respectively. There is no information about a Series C funding round, so it's not possible to determine the total amount raised in such a round based on the given context."
+    },
+    {
+      "question_id": "Q042",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "news-media\\series-a-announcement.html",
+        "news-media\\sarah-kowalski-joins-cto.html",
+        "corporate\\about-butterbot.html",
+        "corporate\\executive-bios.html",
+        "news-media\\series-b-announcement-techcrunch.html"
+      ],
+      "reasoning": "The provided documents mention the CEO & Co-Founder, Dr. Marcus Chen, and the CTO, Sarah Kowalski, but do not mention the Chief Financial Officer (CFO) of Butterbot AI Research. The documents include information about the company's funding, mission, and leadership team, but the CFO is not listed or mentioned. Therefore, the answer is not available in the provided context."
+    },
+    {
+      "question_id": "Q043",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "corporate\\founding-story.md",
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "academic-papers\\attention-is-all-you-need.md",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "news-media\\series-a-announcement.html"
+      ],
+      "reasoning": "The provided context does not mention the ATLAS research paper or its citations on Google Scholar. The context includes information about the founding of Butterbot AI Research, Wikipedia references, academic papers, and news articles, but it does not provide any details about the ATLAS research paper or its citations. Therefore, the answer cannot be determined from the given context."
+    },
+    {
+      "question_id": "Q044",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "corporate\\company-values.md",
+        "news-media\\series-b-announcement-techcrunch.html",
+        "corporate\\email-thread-launch-prep.txt"
+      ],
+      "reasoning": "The provided documents do not mention any Fortune 500 companies that are confirmed customers of ButterflowAPI. The context includes information about the company's values, funding, and product launch preparations, but it does not provide a list of customers. Therefore, it is not possible to list three Fortune 500 companies that are confirmed customers of ButterflowAPI based on the provided documents."
+    },
+    {
+      "question_id": "Q045",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "corporate\\founding-story.md",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "news-media\\atlas-production-milestone-pr.html",
+        "news-media\\series-b-announcement-techcrunch.html",
+        "corporate\\email-thread-launch-prep.txt"
+      ],
+      "reasoning": "The provided context does not mention the 'Adaptive Context Window Management' patent or any information related to patent grants from the USPTO. The documents provided include the company's founding story, a Wikipedia reference, news articles about production milestones and funding, and an internal email thread, but none of them mention patent information. Therefore, the answer to the question cannot be determined from the given context."
+    },
+    {
+      "question_id": "Q046",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "news-media\\series-a-announcement.html",
+        "corporate\\founding-story.md",
+        "news-media\\seed-funding-announcement.html",
+        "corporate\\about-butterbot.html",
+        "wikipedia-reference\\transformer-wiki-raw.html"
+      ],
+      "reasoning": "The provided documents mention the $3M seed round and the $18M Series A round, but they do not provide any information about pre-seed funding. The documents focus on the seed round, Series A round, and the company's mission and history, but they do not discuss any funding prior to the seed round. Therefore, the answer to the question is that the information is not found in the provided documents."
+    },
+    {
+      "question_id": "Q047",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "corporate\\employee-handbook.md",
+        "news-media\\series-b-announcement-techcrunch.html",
+        "news-media\\seed-funding-announcement.html"
+      ],
+      "reasoning": "The provided documents include information about the company's mission, values, funding, and founding story, but they do not contain any information about the total annual cash compensation for employees in the Research department. The employee handbook (Source 3) outlines company policies, benefits, and culture, but it does not provide specific details about compensation. Therefore, the answer cannot be determined from the available context."
+    },
+    {
+      "question_id": "Q048",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "corporate\\founding-story.md",
+        "news-media\\series-b-announcement-techcrunch.html",
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "wikipedia-reference\\bert-wiki-raw.html"
+      ],
+      "reasoning": "The provided documents do not contain any information about the average base salary for employees who joined after Series B (March 15, 2023). The documents include the founding story of Butterbot AI Research, a Series B funding announcement, and Wikipedia references for transformer, GPT3, and BERT, but none of these sources mention employee salaries. Therefore, the answer cannot be determined from the given context."
+    },
+    {
+      "question_id": "Q049",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "corporate\\founding-story.md",
+        "wikipedia-reference\\pytorch-wiki-raw.html"
+      ],
+      "reasoning": "The provided context does not contain any information about the number of employees with 'Senior' in their title who joined Butterbot AI Research in 2022. The context includes Wikipedia navigation menus and a founding story of Butterbot AI Research, but it does not provide specific details about employee hiring or titles. Therefore, the answer cannot be determined from the given context."
+    },
+    {
+      "question_id": "Q050",
+      "answer": "Information not found in provided documents.",
+      "sources": [
+        "wikipedia-reference\\transformer-wiki-raw.html",
+        "wikipedia-reference\\bert-wiki-raw.html",
+        "corporate\\employee-handbook.md",
+        "wikipedia-reference\\gpt3-wiki-raw.html",
+        "news-media\\seed-funding-announcement.html"
+      ],
+      "reasoning": "The provided documents include information about the company's mission, values, and funding, but do not contain specific data about employee compensation or departmental breakdowns. The employee handbook (Source 3) mentions company policies, benefits, and culture, but does not provide details about individual or departmental compensation. Therefore, it is not possible to determine the number of Engineering department employees with total cash compensation above the company-wide median compensation based on the provided documents."
+    }
+  ]
+}
